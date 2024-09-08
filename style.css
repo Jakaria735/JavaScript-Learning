@@ -1,0 +1,17 @@
+/* 
+Css start now
+*/
+body {
+  text-align: center;
+  color: #000000;
+  font-size: 22px;
+  font-weight: 600;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 50px;
+  margin-left: 35px;
+
+}
+h1,h2,h3,h4,h5, h6{
+  color: #de1010;
+  font-weight: 500;
+}
